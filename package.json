@@ -1,0 +1,26 @@
+{
+  "name": "3.0",
+  "version": "1.0.0",
+  "description": "Some crap",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasya24/AJS__HW_2.3.0.git"
+  },
+  "keywords": [
+    "kgnkngedg"
+  ],
+  "author": "Vasya24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasya24/AJS__HW_2.3.0/issues"
+  },
+  "homepage": "https://github.com/Vasya24/AJS__HW_2.3.0#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
